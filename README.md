@@ -1,6 +1,6 @@
 # Event_Management
 Abstract:
-The website will look after all the tasks that are necessary to be performed within a particular Event.The user side consist of all the events and user can communicate with the admin by providing the details, the admin can view these detials and contact the user.The Evenet Management system allows the user to create or host an event.
+The website will look after all the tasks that are necessary to be performed within a particular Event.The user side consist of all the events and user can communicate with the admin by providing the details, the admin can view these detials and contact the user.The Event Management system allows the user to create or host an event.
 
 Required Software & Tools:
 1. HTML.
